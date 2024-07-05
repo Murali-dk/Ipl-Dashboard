@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.team-match-cont {
+  background-color: blue;
+  padding: 20px, 10px, 20px, 10px;
+}
+.banner-img {
+  width: 100%;
+}
+.ul {
+  list-style: none;
+}
